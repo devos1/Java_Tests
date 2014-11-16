@@ -13,3 +13,4 @@ Il est traité au chapitre 2.
 Objectif du projet : illustrer les instructions conditionnelles.
 Comment lancer ce projet : créez un ou plusieurs objets TicketMachine.
 
+Utilisation dans le cadre de la formaiton Heig-Vd en POO
