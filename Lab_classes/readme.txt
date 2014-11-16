@@ -17,3 +17,5 @@ un code simple. Voir les chapitres un et trois du livre.
 Pour l'utiliser, créez des objets Student, puis créez un objet LabClass.
 Ajoutez les étudiants à la classe à l'aide de la méthode "enrolStudent".
 Affichez une liste de la classe.
+
+Utilisation dans le cadre de la formaiton Heig-Vd en POO
