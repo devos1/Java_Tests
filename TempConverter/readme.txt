@@ -1,3 +1,3 @@
-Un simple convertisseur de temprature en POO
+Un simple convertisseur de tempÃ©rature en POO
 
 Celsius <=> Fahrenheit
