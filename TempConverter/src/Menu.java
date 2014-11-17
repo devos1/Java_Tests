@@ -18,7 +18,7 @@ public class Menu {
 		do {
 			System.out.print("Votre choix: ");
 			choix = sc.nextInt();
-		} while(choix < 0 || choix > 2);
+		} while((choix < 0 || choix > 2));
 		
 	return choix;
 	}
@@ -27,6 +27,5 @@ public class Menu {
 		System.out.print("Entrer la température: ");
 		return sc.nextDouble();
 	}
-	
-	
+		
 }
