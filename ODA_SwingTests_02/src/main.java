@@ -20,7 +20,7 @@ import javax.swing.JScrollBar;
  */
 
 /**
- * @author oscardasilva
+ * @author oscar
  * @description	: Programme pour créer des interfaces graphiques avec différents composants
  *
  */
