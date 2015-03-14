@@ -1,5 +1,6 @@
 # Java_Tests
 Various Tests with Java and Eclipse
-  Technologies used :
+
+Technologies used :
     - Swing
     - AWT
