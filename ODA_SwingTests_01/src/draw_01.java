@@ -20,7 +20,7 @@ import javax.swing.JApplet;
  */
 
 /**
- * @author		: oscardasilva
+ * @author		: oscar
  * @description	: Programme pour tester différentes fonctions pour dessiner	dans un APPLET
  *
  */
