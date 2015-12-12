@@ -3,3 +3,6 @@
 .DS_Store
 
 .DS_Store
+/KilometerConverter/nbproject/private/
+/KilometerConverter/build/
+TempConverter/.DS_Store
